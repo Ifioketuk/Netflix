@@ -1,0 +1,208 @@
+body {
+	background-color: #000000;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+  }
+.logo {
+	margin-left: 21px;
+    width: 404px;
+    height: 221px;
+	}
+.sheet {
+	position: absolute;
+width: 553px;
+height: 760px;
+left: 474px;
+top: 149px;
+
+        }
+.txt {
+	position: absolute;
+	margin-bottom: 40px;
+width: 316px;
+height: 98px;
+left: 482px;
+top: 169px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 73px;
+line-height: 89px;
+
+color: #FFFFFF;
+      }
+
+.email {
+	
+position: absolute;
+width: 508px;
+height: 77px;
+left: 482px;
+top: 305px;
+margin-bottom: 30px;
+color: #E5E5E5;
+padding-left: 37px;
+border-color:#888484 ;
+
+background: #888484;
+border-radius: 7px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 39px;
+
+}
+.pass{
+	position: absolute;
+width: 508px;
+height: 77px;
+left: 482px;
+top: 392px;
+padding-left: 37px;
+margin-top: 30px;
+color: #C2C1C1;
+
+background: #888484;
+border-radius: 7px;
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 39px;
+
+
+}
+.signup{
+	position: relative;
+
+left: 640px;
+top: 745px;
+
+
+}
+.tick {
+	position: absolute;
+width: 34px;
+height: 31px;
+left: 483px;
+top: 680px;
+color-rendering: black;
+}
+.remember {
+	position: absolute;
+width: 466px;
+height: 36px;
+left: 524px;
+top: 672px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 26px;
+
+color: #E5E5E5;
+}
+.sign{
+	position: absolute;
+width: 546px;
+height: 97px;
+left: 482px;
+top: 558px;
+font-size:30px ;
+font-weight: 800;
+color: white;
+
+background: #FD0100;
+border-radius: 7px;
+border-color: red;
+}
+.log {
+position: absolute;
+width: 347px;
+height: 26px;
+left: 534px;
+top: 723px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #706C6C;
+}
+.facebook {
+	position: absolute;
+width: 42px;
+height: 36px;
+left: 474px;
+top: 732px;
+border-radius: 6px;
+
+}
+.new {
+	position: absolute;
+width: 494px;
+height: 21px;
+left: 474px;
+top: 768px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+
+color: #888484;
+}
+.this {
+	position: absolute;
+width: 552px;
+height: 94px;
+left: 475px;
+top: 815px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+
+color: #FFFFFF;
+
+}
+.whole{
+	position: absolute;
+width: 553px;
+height: 760px;
+left: 648px;
+top: 90px;
+
+}
+.learn {
+	position: absolute;
+    width: 583px;
+    height: 760px;
+    left: 733px;
+    top: 846px;
+    color: #1017C6;
+    font-size: 22px;
+
+}
+.need {
+	position: absolute;
+    width: 553px;
+    height: 760px;
+    left: 916px;
+    top: 675px;
+    font-size: 21px;}
+
+ .footer{
+ 	display: flex;
+ 	height:10% ;
+ 	
+ }
